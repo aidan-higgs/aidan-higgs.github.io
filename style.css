@@ -8,7 +8,7 @@ body {
 }
 
 header {
-    background: #1b284b;
+    background: #29324d;
     color: #fff;
     padding: 1rem;
     text-align: center;
@@ -26,7 +26,7 @@ nav a {
 }
 
 nav a:hover {
-    color: #b8b7b7;
+    color: #f4f4f4;
     text-decoration: underline;
 }
 
